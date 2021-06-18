@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623731979 source:d:\..documents\pemrog 1\codeblocks\randomizer_roulette_en\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
