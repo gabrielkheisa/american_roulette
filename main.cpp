@@ -113,13 +113,13 @@ int main() {
     one = zero = variable = nambeh = 0;
     for (int i = 1; i <= replay_2; i++) {
       // american roulette, 0 = 37 ; 00 = 38
-      variable = round(rand_FloatRange(1, 38));
+      variable = round(rand_FloatRange(0.5, 38.5));
       // print result, uncomment to see bet result
       // cout << variable << ",";
       // bet, uncomment "//" one from these :
-        //f_odd(&variable);
+        f_odd(&variable);
         //f_even(&variable);
-        f_num(5, &variable);
+        //f_num(5, &variable);
         //f_1st(1, &variable);
         //f_1to18(&variable);
         //f_19to36(&variable);
