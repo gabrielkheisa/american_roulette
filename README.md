@@ -3,6 +3,9 @@ American roulette Win/Lose simulation
 
 
 
+<a href="https://ibb.co/3mrpWHj"><img src="https://i.ibb.co/9H8b2j1/distribution-lite.jpg" alt="distribution-lite" border="0"></a><br /><a target='_blank' href='https://the-crosswordsolver.com/veer-off-track-6-letters'>veer off track crossword</a><br />
+
+
 
 **500 replay system 1000 replay game, odd**
 
